@@ -1,0 +1,12 @@
+C:\Users\mohamed_adel\source\repos\encryptor\bin\Debug\netcoreapp3.1\encryptor.exe
+C:\Users\mohamed_adel\source\repos\encryptor\bin\Debug\netcoreapp3.1\encryptor.deps.json
+C:\Users\mohamed_adel\source\repos\encryptor\bin\Debug\netcoreapp3.1\encryptor.runtimeconfig.json
+C:\Users\mohamed_adel\source\repos\encryptor\bin\Debug\netcoreapp3.1\encryptor.runtimeconfig.dev.json
+C:\Users\mohamed_adel\source\repos\encryptor\bin\Debug\netcoreapp3.1\encryptor.dll
+C:\Users\mohamed_adel\source\repos\encryptor\bin\Debug\netcoreapp3.1\encryptor.pdb
+C:\Users\mohamed_adel\source\repos\encryptor\obj\Debug\netcoreapp3.1\encryptor.AssemblyInfoInputs.cache
+C:\Users\mohamed_adel\source\repos\encryptor\obj\Debug\netcoreapp3.1\encryptor.AssemblyInfo.cs
+C:\Users\mohamed_adel\source\repos\encryptor\obj\Debug\netcoreapp3.1\encryptor.csproj.CoreCompileInputs.cache
+C:\Users\mohamed_adel\source\repos\encryptor\obj\Debug\netcoreapp3.1\encryptor.dll
+C:\Users\mohamed_adel\source\repos\encryptor\obj\Debug\netcoreapp3.1\encryptor.pdb
+C:\Users\mohamed_adel\source\repos\encryptor\obj\Debug\netcoreapp3.1\encryptor.genruntimeconfig.cache

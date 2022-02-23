@@ -1,0 +1,12 @@
+C:\Users\mohamed_adel\source\repos\decryptor\bin\Debug\netcoreapp3.1\decryptor.exe
+C:\Users\mohamed_adel\source\repos\decryptor\bin\Debug\netcoreapp3.1\decryptor.deps.json
+C:\Users\mohamed_adel\source\repos\decryptor\bin\Debug\netcoreapp3.1\decryptor.runtimeconfig.json
+C:\Users\mohamed_adel\source\repos\decryptor\bin\Debug\netcoreapp3.1\decryptor.runtimeconfig.dev.json
+C:\Users\mohamed_adel\source\repos\decryptor\bin\Debug\netcoreapp3.1\decryptor.dll
+C:\Users\mohamed_adel\source\repos\decryptor\bin\Debug\netcoreapp3.1\decryptor.pdb
+C:\Users\mohamed_adel\source\repos\decryptor\obj\Debug\netcoreapp3.1\decryptor.AssemblyInfoInputs.cache
+C:\Users\mohamed_adel\source\repos\decryptor\obj\Debug\netcoreapp3.1\decryptor.AssemblyInfo.cs
+C:\Users\mohamed_adel\source\repos\decryptor\obj\Debug\netcoreapp3.1\decryptor.csproj.CoreCompileInputs.cache
+C:\Users\mohamed_adel\source\repos\decryptor\obj\Debug\netcoreapp3.1\decryptor.dll
+C:\Users\mohamed_adel\source\repos\decryptor\obj\Debug\netcoreapp3.1\decryptor.pdb
+C:\Users\mohamed_adel\source\repos\decryptor\obj\Debug\netcoreapp3.1\decryptor.genruntimeconfig.cache

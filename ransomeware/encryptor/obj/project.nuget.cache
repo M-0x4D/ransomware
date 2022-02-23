@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aAzdYKBKd1EM8kVmdqZD3ugukDnxNLxP0Io1CZ9kPZLAu9EIUOqWd9Ct4oTy+6xoCwkbp624nq/q5MyETsvoZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohamed_adel\\source\\repos\\encryptor\\encryptor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohamed_adel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
